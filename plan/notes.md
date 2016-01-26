@@ -21,3 +21,4 @@
     *   Search field
     *   Keyboard shortcuts
 *   smart address bar
+    *   See [Mozilla's Frecency Algorithm](https://developer.mozilla.org/en-US/docs/Mozilla/Tech/Places/Frecency_algorithm) and [Slack's version thereof](https://slack.engineering/a-faster-smarter-quick-switcher-77cbc193cb60#.8rhnrjdq9)
